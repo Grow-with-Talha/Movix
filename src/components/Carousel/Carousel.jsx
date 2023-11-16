@@ -62,7 +62,7 @@ const Carousel = ({ data, loading, endPoint, title}) => {
                                     {item.title || item.name}
                                 </span>
                                 <span className="date">
-                                    {dayjs(item.released_Date).format("MMM D, YYYY")}
+                                    {dayjs(item.released_Date || item.first_air_date).format("MMM D, YYYY")}
                                 </span>
                             </div>
                         </div>

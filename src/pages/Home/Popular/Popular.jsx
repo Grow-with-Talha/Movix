@@ -4,7 +4,7 @@ import useFetch from "../../../hooks/useFetch"
 
 import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
 import SwitchTabs from '../../../components/switchTabs/switchTabs'
-import Carousel from '../../../components/Carousel/Carousel'
+import Carousel from '../../../components/carousel/Carousel'
 
 
 

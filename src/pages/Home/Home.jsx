@@ -2,7 +2,7 @@ import "./style.scss"
 import HeroBanner from "./heroBanner/HeroBanner"
 import Trending from "./trending/trending"
 import Popular from "./Popular/Popular"
-import TopRated from "./TopRated/Toprated"
+import TopRated from "./topRated/Toprated"
 
 
 const Home = () => {
